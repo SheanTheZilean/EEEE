@@ -1,0 +1,36 @@
+0;Nom de la Carte ;Fond;TailleX;TailleY;;
+1;Accueil;grzegorz-przybys-bitwa-1.png;2000;1000;;
+2;Camp Impériale;Camp.png;2000;1000;;/
+3;Training Grounds;Entrai.png;2000;1000;;Impériaux
+4;Nécropole;Salle4.png;2000;1000;;Nachos
+5;Camp - Clairière;camp nuit.png;2000;1000;;Alp
+6;Camp - Falaise;Camp - Falaise.png;2000;1000;;Alp
+7;Camp - Cercle de Pierre;Camp - Cercle de Pierre.png;2000;1000;;Alp
+8;Camp - Route (clodo);Camp - Route.png;2000;1000;;Alp
+9;Route1;Route1.png;2000;1000;;Band,Cult,Loups
+10;Route2;Route2.png;2000;1000;;Band,Cult,Loups
+11;Route3;Route3.png;2000;1000;;Band,Cult,Loups
+12;Rivière;RiverCrossing.png;2000;1000;;Ours, Animaux
+13;LongHouse;LongHouse.png;2000;1000;;Cult
+14;Taverne;Taverne.png;2000;1000;;Cult
+15;Sur la Route;LaRoute.png;2000;1000;;Affichage
+16;Nom du Pion;Fichier;Posx;Posy;;
+17;Nachos1;Nachzehrer1.png;1000;400;;
+18;Nachos2;Nachzehrer2.png;1000;600;;
+19;Alp1;alps1.png;1000;400;;
+20;Alp2;alps2.png;1000;600;;
+21;Alp3;alps3.png;1000;800;;
+22;Cultiste1;Cultiste1.png;1000;400;;
+23;Cultiste2;Cultiste2.png;1000;600;;
+24;Cultiste3;Cultiste3.png;1000;400;;
+25;Cultiste4;Cultiste4.png;1000;600;;
+26;Bandit1;Bandit1.png;1000;450;;
+27;Bandit2;Bandit2.png;1000;450;;
+28;Ours;ours.png;1000;450;;
+29;Loup;loup.png;1000;450;;
+30;Impériaux;imperial.png;1000;500;;
+31;Ferdinand;FerdinantDétoured.png;500;100;;
+32;Kriv;kriv3.png;500;300;;
+33;Medrash;MedrashDétoured.png;500;500;;
+34;Torin;TorinDétoured.png;500;700;;
+35;Elmut;Ermut2.png;500;900;;
